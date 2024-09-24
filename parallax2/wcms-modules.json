@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "parallax2": {
+            "name": "Parallax2",
+            "repo": "https://github.com/jospedro39/zepedro6/tree/main/parallax2",
+            "zip": "https://github.com/jospedro39/zepedro6/blob/main/parallax2.zip",
+            "summary": "One of the most advanced WonderCMS themes created by @jospedro39.",
+            "version": "3.2.3",
+            "image": "https://github.com/jospedro39/zepedro6/blob/main/parallax2/images/default.png"
+        }
+    }
+}
